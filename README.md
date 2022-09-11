@@ -46,3 +46,11 @@ Please fill up the required information in [env_set](https://github.com/xai990/F
 - Sliver public key 
 - Tokens
 - Fabric log file 
+```bash
+# submit the slice request 
+./bin/create_slice.py
+# print the node information
+./bin/print_node_info.py
+# upload or download data 
+./bin/transfer_data.py
+```
