@@ -45,4 +45,4 @@ Please fill up the required information in [env_set](https://github.com/xai990/F
 - Sliver private key 
 - Sliver public key 
 - Tokens
-
+- Fabric log file 
