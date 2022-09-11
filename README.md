@@ -39,4 +39,10 @@ The data transfer can be achieved by the example Jupyter Notebook [upload_and_ex
 ### Terminal
 If your shell only can run python scripts, please refer the python scripts under [bin](https://github.com/xai990/Fabric-API/tree/main/bin) floders.
 Please fill up the required information in [env_set](https://github.com/xai990/Fabric-API/blob/main/bin/set_env.py)
+- Bastion username
+- Project ID 
+- Bastion private key 
+- Sliver private key 
+- Sliver public key 
+- Tokens
 
