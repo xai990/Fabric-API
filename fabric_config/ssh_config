@@ -3,12 +3,12 @@ StrictHostKeyChecking no
 ServerAliveInterval 120 
 
 Host bastion-?.fabric-testbed.net
-     User <BASTION_USERNAME>
+     User xai_0051546236
      ForwardAgent yes
      Hostname %h
-     IdentityFile <BASTION_PRIVATE_KEY>
+     IdentityFile /home/xai/fabric-jupyter/fabric-testbed-api/fabric_config/xai-bastion-1
      IdentitiesOnly yes
 
 Host * !bastion-?.fabric-testbed.net
-     ProxyJump <BASTION_USERNAME>@bastion-1.fabric-testbed.net:22
+     ProxyJump xai_0051546236@bastion-1.fabric-testbed.net:22
 
