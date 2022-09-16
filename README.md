@@ -4,8 +4,8 @@ This repository contains the code for construct [Fabric-testbed](https://fabric-
 
 ## Install the FABRIC Python API
 
-The FABRIC API is available in the following [github repo] (https://github.com/fabric-testbed/fabric-cli)
-Please refer more information at [Fabric document] (https://learn.fabric-testbed.net/knowledge-base/install-the-python-api/)
+The FABRIC API is available in the following [github repo](https://github.com/fabric-testbed/fabric-cli)
+Please refer more information at [Fabric document](https://learn.fabric-testbed.net/knowledge-base/install-the-python-api/)
 
 ```bash
 # create conda environment named fabrictestbed
